@@ -1,6 +1,6 @@
 # Git Alias
 
-### **Set an alias**
+### **Set an Alias**
 
 ```
 git config --global alias.[alias] "add -A"
@@ -12,7 +12,7 @@ git config --global alias.[alias] "add -A"
 alias.up update-git-for-windows
 ```
 
-### **List alias**
+### **List Alias**
 
 ```
 alias.alias config --get-regexp ^alias\.
