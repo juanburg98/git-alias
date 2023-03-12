@@ -102,3 +102,9 @@ I made a mistake when naming my branch
 ```ruby
 brn = branch -m
 ```
+### git restore
+Undo a modified file
+
+```ruby
+res = restore
+```
