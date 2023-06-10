@@ -11,13 +11,13 @@ git config --global alias.[alias] "add -A"
 Update your git version
 
 ```ruby
-alias.up = "update-git-for-windows"
+up = "update-git-for-windows"
 ```
 
 ### List alias
 
 ```ruby
-alias.alias = "config --get-regexp ^alias\."
+alias = "config --get-regexp ^alias\."
 ```
 
 ### git status
